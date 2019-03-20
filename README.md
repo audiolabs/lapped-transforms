@@ -2,7 +2,7 @@
 
 A Jupyter Notebook for experimenting with lapped transforms.
 
- 1. [Analysing Lapped Transforms](1 Analysing Lapped Transforms.ipynb)
+ 1. [Analysing Lapped Transforms](blob/master/1 Analysing Lapped Transforms.ipynb)
  1. [Transforming Signal Vectors](2 Transforming Signal Vectors.ipynb)
 
 Motivation and Theory, see
