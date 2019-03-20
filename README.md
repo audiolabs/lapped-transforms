@@ -2,8 +2,8 @@
 
 A Jupyter Notebook for experimenting with lapped transforms.
 
- 1. [Analysing Lapped Transforms](blob/master/1 Analysing Lapped Transforms.ipynb)
- 1. [Transforming Signal Vectors](2 Transforming Signal Vectors.ipynb)
+ 1. [Analysing Lapped Transforms](https://github.com/audiolabs/lapped-transforms/blob/master/1 Analysing Lapped Transforms.ipynb)
+ 1. [Transforming Signal Vectors](https://github.com/audiolabs/lapped-transforms/blob/master/2 Transforming Signal Vectors.ipynb)
 
 Motivation and Theory, see
 
