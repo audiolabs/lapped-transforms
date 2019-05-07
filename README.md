@@ -2,6 +2,8 @@
 
 A Jupyter Notebook for experimenting with lapped transforms.
 
+![MDCT](mdct.png)
+
 Click the following links to open the notebooks in Jupyter nbviewer (some math is broken when you open these files directly on GitHub):
 
  1. [Analysing Lapped Transforms](https://nbviewer.jupyter.org/github/audiolabs/lapped-transforms/blob/master/1%20Analysing%20Lapped%20Transforms.ipynb)
