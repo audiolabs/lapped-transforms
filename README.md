@@ -18,6 +18,5 @@ Motivation and Theory, see
 ```
 git clone https://github.com/audiolabs/lapped-transforms.git
 cd lapped-transforms
-pip install -r requirements.txt
-jupyter notebook
+uv run jupyter notebook
 ```
